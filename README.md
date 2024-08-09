@@ -56,6 +56,10 @@ This project implements a Vehicle Rental Supervision System, allowing customers 
 2. Set up the database using the provided SQL scripts in `Vehicle_Database.sql`.
 3. Update the database connection details in `DatabaseManager.java`.
 4. Compile and run the `Vehicle_Rental_Supervision.java` file to start the application.
+# OutPut_Screenshot
+![WhatsApp Image 2024-08-09 at 19 35 16_7a40254e](https://github.com/user-attachments/assets/1fb60068-6630-445b-9d5c-30da5f164d73)
+![Screenshot 2024-08-09 193714](https://github.com/user-attachments/assets/c006afcd-2ddf-4cef-8247-d97e2fe5bda3)
+![Screenshot 2024-08-09 193742](https://github.com/user-attachments/assets/743f0644-0e8d-4d56-9313-284b78a32405)
 
 ## Dependencies
 - Java Swing for GUI
