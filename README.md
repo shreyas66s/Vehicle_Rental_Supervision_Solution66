@@ -79,5 +79,4 @@ Pratham K  prathamkish@gmail.com
 
 M Prithvin
 
-## License
-[MIT  ]
+
